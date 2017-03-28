@@ -1,7 +1,7 @@
 {
     "key": "rstudio",
-    "label": "RStudio Server",
-    "description": "IDE for the R programming language.",
+    "label": "R Trait Data",
+    "description": "Rstudio environment with dependencies for analysis of plant and plot level trait data.",
     "logo": "/asset/png/logos/rstudio-logo.png",
     "image": {
         "name": "rocker/ropensci",
