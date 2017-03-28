@@ -1,7 +1,7 @@
 {
     "key": "geospatial",
-    "label": "RStudio Geospatial",
-    "description": "IDE for the R programming language.",
+    "label": "R Sensor Data",
+    "description": "Rstudio environment with dependencies for geospatial and sensor data.",
     "logo": "/asset/png/logos/rstudio-logo.png",
     "image": {
         "name": "terraref/rstudio-geospatial",
